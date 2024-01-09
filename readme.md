@@ -28,7 +28,7 @@ Copy code
 
 Clone the repository:
 ```bash
-$ git clone https://github.com/yourusername/webqa-project.git
+$ git clone https://github.com/karthiknair-19/LLM_text_summariser.git
 $ cd LLM_text_summariser
 ```
 Create a virtual environment (optional but recommended):

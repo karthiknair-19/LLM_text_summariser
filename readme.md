@@ -66,8 +66,8 @@ Visit http://localhost:8501 in your web browser to interact with the project out
 <p align="center">
   <img alt="OpenAI Logo" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" height="50" />
   <img alt="FAISS Logo" src="https://github.com/facebookresearch/faiss/blob/master/faiss-logo.png?raw=true" height="50" />
-  <img alt="Streamlit Logo" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png" height="50" />
-  <img alt="Langchain Logo" src="https://example.com/langchain_logo.png" height="50" />
+  <img alt="Streamlit Logo" src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" height="50" />
+  <img alt="Langchain Logo" src="[https://example.com/langchain_logo.png](https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png)" height="50" />
   <!-- Add more libraries as needed -->
 </p>
 <!-- License -->

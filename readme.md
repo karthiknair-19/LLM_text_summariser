@@ -29,7 +29,7 @@ Copy code
 Clone the repository:
 ```bash
 $ git clone https://github.com/yourusername/webqa-project.git
-$ cd webqa-project
+$ cd LLM_text_summariser
 ```
 Create a virtual environment (optional but recommended):
 
@@ -64,7 +64,7 @@ Visit http://localhost:8501 in your web browser to interact with the project out
 <!-- Libraries Used -->
 <h2 align="center">Libraries Used</h2>
 <p align="center">
-  <img alt="OpenAI Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/OpenAI_logo.svg/1200px-OpenAI_logo.svg.png" height="50" />
+  <img alt="OpenAI Logo" src="https://en.wikipedia.org/wiki/File:OpenAI_Logo.svg" height="50" />
   <img alt="FAISS Logo" src="https://github.com/facebookresearch/faiss/blob/master/faiss-logo.png?raw=true" height="50" />
   <img alt="Streamlit Logo" src="https://assets.streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" height="50" />
   <img alt="Langchain Logo" src="https://example.com/langchain_logo.png" height="50" />

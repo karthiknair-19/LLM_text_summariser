@@ -10,7 +10,7 @@ Copy code
 
 <!-- GIF Showcase -->
 <p align="center">
-  <img src="path/to/your/gif.gif" alt="GIF Showcase" width="80%">
+  <img src="https://github.com/karthiknair-19/LLM_text_summariser/assets/124065232/2a8e3171-a108-47a0-9608-d4508c30deb6" alt="GIF Showcase" width="80%">
 </p>
 
 <!-- Project Features -->
